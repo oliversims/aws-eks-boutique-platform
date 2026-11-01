@@ -1,5 +1,7 @@
 <h1 align="center">Production-Grade GitOps-Driven Microservices</h1>
 
+<p align="center">This repository presents the project. The source code is private and available on request.</p>
+
 <p align="center">
   <img src="docs/evidence/aws-main-logo-2025-orange-arrow-icon-1.png" alt="AWS" height="72">
 </p>
@@ -27,8 +29,6 @@ Private Amazon EKS for **Online Boutique**: Terraform owns the platform, Argo CD
 | **Status** | Torn down — AWS stacks were destroyed to stop idle cost. Screenshots and runbooks remain |
 
 **Stack:** Terraform · Amazon EKS · Kubernetes Gateway API · AWS Load Balancer Controller · External DNS · Argo CD · Image Updater · GitHub Actions · GHCR · Trivy · Prometheus · Grafana · Alertmanager · Jaeger · Elastic Cloud on Kubernetes · Cluster Autoscaler · HPA · ElastiCache
-
-This repository is the public write-up. The Terraform stacks, boutique services, GitOps manifests, workflows, and runbooks stay in a private repository.
 
 The public hostnames below do **not** resolve today. Proof of the running platform is in [sections 7–9](#7-continuous-integration) and [section 15](#15-evidence-from-the-running-platform).
 
