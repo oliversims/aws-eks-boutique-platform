@@ -1,7 +1,5 @@
 <h1 align="center">Production-Grade GitOps-Driven Microservices</h1>
 
-<p align="center">This repository presents the project. The source code is private and available on request.</p>
-
 <p align="center">
   <img src="docs/evidence/aws-main-logo-2025-orange-arrow-icon-1.png" alt="AWS" height="72">
 </p>
@@ -16,6 +14,8 @@
 </p>
 
 Private Amazon EKS for **Online Boutique**: Terraform owns the platform, Argo CD owns the shop, and metrics, logs, and traces sit on their own public hostnames.
+
+> This repository presents the project. The source code is private and available on request.
 
 | Item | Detail |
 | --- | --- |
